@@ -1,0 +1,76 @@
+DeiiveryToTrade_CAT,VolumeToTrade_CAT,TradeDel2VolDiff_CAT,next_day_fluctuates,next_day_CandleType,percentage_fluctuation,TotalCount
+High,High,High,2.319999999999996,Bullish,5,5
+High,High,Low,3.2876470588235316,Bullish,51,51
+High,High,Medium,2.2249999999999996,Bearish,20,20
+High,High,Very Low,4.594397163120568,Bullish,141,141
+High,Low,High,3.354761904761906,Bullish,21,21
+High,Low,Medium,2.914999999999999,Bearish,10,10
+High,Medium,High,2.75,Bearish,7,7
+High,Medium,Low,2.6861111111111104,Bearish,18,18
+High,Medium,Medium,2.637000000000002,Bearish,50,50
+High,Medium,Very Low,7.437500000000003,Bullish,12,12
+High,Very High,High,3.601724137931034,Bearish,29,29
+High,Very High,Low,2.6159999999999997,Bearish,5,5
+High,Very High,Medium,3.0307142857142852,Bearish,14,14
+High,Very High,Very High,3.1181481481481494,Bearish,54,54
+High,Very Low,High,4.094117647058824,Bearish,17,17
+High,Very Low,Very Low,3.383333333333335,Bearish,6,6
+Low,High,High,2.0357142857142847,Bullish,7,7
+Low,High,Very High,3.141052631578947,Bullish,38,38
+Low,Low,High,2.8374999999999986,Bearish,8,8
+Low,Low,Low,8.146527777777777,Bearish,72,72
+Low,Low,Medium,7.308823529411763,Bullish,51,51
+Low,Low,Very Low,4.8568181818181815,Bullish,22,22
+Low,Medium,High,2.773,Bearish,50,50
+Low,Medium,Low,2.075000000000003,Bearish,4,4
+Low,Medium,Medium,2.861764705882353,Bearish,17,17
+Low,Medium,Very High,2.6526315789473656,Bearish,19,19
+Low,Medium,Very Low,2.150000000000001,Bullish,3,3
+Low,Very High,Very High,3.3997560975609753,Bearish,41,41
+Low,Very Low,High,9.81101694915254,Bearish,59,59
+Low,Very Low,Low,6.485714285714292,Bullish,7,7
+Low,Very Low,Medium,9.98181818181818,Bearish,66,66
+Low,Very Low,Very Low,2.6500000000000057,Bearish,2,2
+Medium,High,High,4.002272727272726,Bullish,22,22
+Medium,High,Low,2.677272727272728,Bullish,11,11
+Medium,High,Medium,2.865789473684207,Bullish,19,19
+Medium,High,Very High,3.482727272727273,Bearish,11,11
+Medium,High,Very Low,3.200000000000004,Bearish,5,5
+Medium,Low,High,3.116666666666667,Bearish,6,6
+Medium,Low,Low,6.746341463414633,Bullish,41,41
+Medium,Low,Medium,3.7170212765957458,Bearish,47,47
+Medium,Low,Very Low,12.519999999999996,Bullish,5,5
+Medium,Medium,High,2.0499999999999994,Bullish,3,3
+Medium,Medium,Low,4.724999999999999,Bearish,68,68
+Medium,Medium,Medium,2.40967741935484,Bearish,31,31
+Medium,Medium,Very Low,5.900253164556962,Bullish,79,79
+Medium,Very High,Very High,3.5042028985507256,Bearish,69,69
+Medium,Very Low,High,3.199428571428571,Bearish,35,35
+Medium,Very Low,Medium,3.9000000000000057,Bearish,2,2
+Medium,Very Low,Very Low,2.2749999999999986,Bearish,2,2
+Very High,High,High,2.8144117647058846,Bullish,34,34
+Very High,High,Low,3.4560000000000017,Bearish,10,10
+Very High,High,Medium,2.3821052631578943,Bearish,38,38
+Very High,High,Very Low,4.800000000000011,Bearish,1,1
+Very High,Low,High,3.136111111111112,Bearish,36,36
+Very High,Medium,High,2.7254054054054038,Bearish,37,37
+Very High,Medium,Medium,0.9500000000000028,Bearish,1,1
+Very High,Very High,High,3.620512820512821,Bearish,78,78
+Very High,Very High,Low,3.7960869565217386,Bearish,46,46
+Very High,Very High,Medium,3.8261764705882353,Bullish,68,68
+Very High,Very High,Very High,3.4946296296296304,Bearish,54,54
+Very High,Very High,Very Low,3.7318604651162803,Bearish,43,43
+Very High,Very Low,High,4.159090909090912,Bearish,11,11
+Very High,Very Low,Very Low,2.462500000000002,Bullish,4,4
+Very Low,High,Very High,3.1678947368421038,Bearish,38,38
+Very Low,Low,High,3.1573529411764722,Bearish,34,34
+Very Low,Low,Low,3.425000000000006,Bearish,4,4
+Very Low,Low,Medium,4.991666666666667,Bearish,6,6
+Very Low,Low,Very High,6.675773195876288,Bearish,97,97
+Very Low,Medium,Very High,3.115454545454547,Bearish,55,55
+Very Low,Very High,Very High,4.291599999999999,Bearish,25,25
+Very Low,Very Low,High,9.254545454545449,Bearish,77,77
+Very Low,Very Low,Low,10.102272727272728,Bearish,22,22
+Very Low,Very Low,Medium,8.28666666666667,Bearish,60,60
+Very Low,Very Low,Very High,9.318750000000003,Bearish,32,32
+Very Low,Very Low,Very Low,6.381818181818182,Bullish,11,11

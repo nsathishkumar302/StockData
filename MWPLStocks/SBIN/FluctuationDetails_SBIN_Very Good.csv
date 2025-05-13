@@ -1,0 +1,75 @@
+DeiiveryToTrade_CAT,VolumeToTrade_CAT,TradeDel2VolDiff_CAT,next_day_fluctuates,next_day_CandleType,percentage_fluctuation,TotalCount
+High,High,High,12.71666666666666,Bearish,3,3
+High,High,Low,9.555681818181823,Bullish,44,44
+High,High,Medium,7.864285714285708,Bearish,14,14
+High,High,Very Low,22.418120805369142,Bearish,149,149
+High,Low,Medium,9.554347826086964,Bearish,23,23
+High,Medium,Low,6.460416666666659,Bearish,24,24
+High,Medium,Medium,8.45652173913043,Bearish,23,23
+High,Medium,Very Low,6.445454545454549,Bearish,11,11
+High,Very High,High,13.553260869565213,Bullish,46,46
+High,Very High,Low,8.787499999999994,Bearish,8,8
+High,Very High,Medium,6.147619047619046,Bullish,21,21
+High,Very High,Very High,11.037820512820511,Bearish,78,78
+High,Very High,Very Low,21.39615384615382,Bullish,13,13
+High,Very Low,High,13.34999999999998,Bullish,2,2
+High,Very Low,Medium,10.608333333333329,Bullish,12,12
+High,Very Low,Very Low,8.989999999999998,Bearish,5,5
+Low,High,High,9.255555555555551,Bearish,9,9
+Low,High,Very High,12.003999999999996,Bearish,25,25
+Low,Low,Low,17.948484848484842,Bearish,33,33
+Low,Low,Medium,5.66111111111111,Bullish,9,9
+Low,Low,Very Low,41.34129032258064,Bearish,155,155
+Low,Medium,High,8.026190476190473,Bearish,21,21
+Low,Medium,Low,7.741666666666664,Bearish,24,24
+Low,Medium,Medium,7.978333333333327,Bullish,30,30
+Low,Medium,Very Low,7.966666666666659,Bullish,6,6
+Low,Very High,Very High,12.63809523809524,Bearish,42,42
+Low,Very Low,Low,44.70808823529412,Bearish,68,68
+Low,Very Low,Medium,11.400000000000004,Bearish,27,27
+Low,Very Low,Very Low,55.471052631578964,Bullish,19,19
+Medium,High,High,10.371428571428575,Bearish,21,21
+Medium,High,Low,9.191666666666663,Bearish,6,6
+Medium,High,Medium,6.936206896551723,Bearish,29,29
+Medium,High,Very High,17.174999999999997,Bullish,4,4
+Medium,High,Very Low,6.449999999999989,Bearish,3,3
+Medium,Low,Low,11.491891891891887,Bearish,37,37
+Medium,Low,Medium,10.224999999999998,Bearish,14,14
+Medium,Low,Very Low,38.551388888888894,Bearish,36,36
+Medium,Medium,Low,9.991666666666658,Bearish,18,18
+Medium,Medium,Medium,3.75,Bullish,4,4
+Medium,Medium,Very Low,31.031306306306313,Bearish,222,222
+Medium,Very High,High,7.575000000000003,Bearish,2,2
+Medium,Very High,Very High,10.273404255319146,Bullish,47,47
+Medium,Very Low,High,8.699999999999989,Bearish,1,1
+Medium,Very Low,Medium,10.446774193548382,Bearish,31,31
+Very High,High,High,6.799999999999997,Bearish,2,2
+Very High,High,Low,9.576,Bullish,25,25
+Very High,High,Medium,7.7434210526315805,Bullish,76,76
+Very High,High,Very Low,12.910000000000014,Bearish,10,10
+Very High,Low,High,5.100000000000023,Bearish,1,1
+Very High,Low,Medium,8.51296296296296,Bearish,27,27
+Very High,Medium,High,5.349999999999994,Bullish,3,3
+Very High,Medium,Medium,6.258823529411761,Bearish,34,34
+Very High,Very High,High,11.573076923076922,Bearish,26,26
+Very High,Very High,Low,18.077966101694923,Bullish,59,59
+Very High,Very High,Medium,11.4245,Bearish,100,100
+Very High,Very High,Very High,10.863888888888887,Bullish,36,36
+Very High,Very High,Very Low,14.363846153846161,Bearish,65,65
+Very High,Very Low,High,11.816666666666663,Bearish,3,3
+Very High,Very Low,Medium,9.274999999999999,Bearish,8,8
+Very High,Very Low,Very Low,28.62499999999997,Bearish,2,2
+Very Low,High,Very High,11.231428571428571,Bullish,35,35
+Very Low,Low,High,11.049999999999988,Bearish,23,23
+Very Low,Low,Low,9.539999999999997,Bullish,5,5
+Very Low,Low,Medium,8.576470588235296,Bullish,17,17
+Very Low,Low,Very High,10.172222222222217,Bearish,27,27
+Very Low,Low,Very Low,16.05999999999998,Bearish,5,5
+Very Low,Medium,High,9.029999999999987,Bullish,10,10
+Very Low,Medium,Very High,8.767142857142854,Bearish,35,35
+Very Low,Very High,Very High,13.465178571428579,Bullish,56,56
+Very Low,Very Low,High,45.15909090909091,Bullish,11,11
+Very Low,Very Low,Low,43.25714285714287,Bearish,84,84
+Very Low,Very Low,Medium,46.705309734513264,Bearish,113,113
+Very Low,Very Low,Very High,38.525757575757574,Bullish,33,33
+Very Low,Very Low,Very Low,34.156249999999986,Bearish,32,32

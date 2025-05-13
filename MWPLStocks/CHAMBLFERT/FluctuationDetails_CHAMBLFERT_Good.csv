@@ -1,0 +1,66 @@
+DeiiveryToTrade_CAT,VolumeToTrade_CAT,TradeDel2VolDiff_CAT,next_day_fluctuates,next_day_CandleType,percentage_fluctuation,TotalCount
+High,High,Low,14.400000000000002,Bullish,7,7
+High,High,Medium,12.925000000000011,Bullish,2,2
+High,High,Very Low,14.360000000000003,Bullish,25,25
+High,Low,Low,8.55,Bullish,5,5
+High,Low,Medium,14.25,Bearish,9,9
+High,Medium,Low,20.245833333333344,Bearish,12,12
+High,Medium,Very Low,36.80000000000007,Bearish,1,1
+High,Very High,High,12.627272727272725,Bearish,11,11
+High,Very High,Low,15.450000000000008,Bullish,3,3
+High,Very High,Medium,16.922727272727265,Bearish,11,11
+High,Very High,Very High,18.171428571428567,Bullish,14,14
+High,Very Low,Medium,13.699999999999996,Bearish,23,23
+High,Very Low,Very Low,17.25,Bullish,1,1
+Low,High,High,19.275000000000006,Bullish,4,4
+Low,High,Medium,5.449999999999989,Bullish,1,1
+Low,High,Very High,10.269999999999992,Bullish,5,5
+Low,Low,Low,15.677777777777774,Bullish,9,9
+Low,Low,Very Low,10.780434782608697,Bearish,23,23
+Low,Medium,High,17.5,Bullish,1,1
+Low,Medium,Medium,14.5666666666667,Bullish,3,3
+Low,Medium,Very Low,11.899999999999977,Bearish,2,2
+Low,Very High,Very High,14.34285714285714,Bullish,7,7
+Low,Very Low,Low,11.441999999999986,Bearish,25,25
+Low,Very Low,Medium,15.04204545454545,Bullish,44,44
+Low,Very Low,Very Low,10.599999999999994,Bullish,2,2
+Medium,High,High,10.712500000000006,Bullish,4,4
+Medium,High,Low,12.875,Bearish,8,8
+Medium,High,Medium,12.25,Bearish,3,3
+Medium,High,Very Low,12.068750000000009,Bullish,8,8
+Medium,Low,Low,12.229545454545447,Bearish,22,22
+Medium,Low,Very Low,8.682142857142853,Bullish,14,14
+Medium,Medium,Low,11.199999999999932,Bearish,1,1
+Medium,Medium,Very Low,13.001515151515155,Bullish,33,33
+Medium,Very High,High,19.700000000000006,Bullish,3,3
+Medium,Very High,Very High,14.087500000000006,Bullish,4,4
+Medium,Very Low,Low,9.962499999999991,Bearish,4,4
+Medium,Very Low,Medium,14.418421052631578,Bullish,19,19
+Medium,Very Low,Very Low,5.199999999999989,Bearish,1,1
+Very High,High,Low,20.572727272727253,Bearish,11,11
+Very High,High,Medium,19.51052631578947,Bearish,19,19
+Very High,High,Very Low,12.025000000000006,Bullish,2,2
+Very High,Low,Medium,12.799999999999992,Bullish,14,14
+Very High,Medium,Low,39.700000000000045,Bullish,1,1
+Very High,Medium,Medium,17.652777777777768,Bullish,18,18
+Very High,Very High,High,16.55000000000001,Bullish,6,6
+Very High,Very High,Low,17.550000000000004,Bullish,17,17
+Very High,Very High,Medium,15.600000000000032,Bullish,7,7
+Very High,Very High,Very High,20.200000000000017,Bearish,6,6
+Very High,Very High,Very Low,19.177777777777756,Bullish,9,9
+Very High,Very Low,Medium,16.360714285714277,Bullish,14,14
+Very High,Very Low,Very Low,17.0,Bullish,1,1
+Very Low,High,Very High,29.060000000000038,Bearish,5,5
+Very Low,Low,High,12.639999999999986,Bearish,5,5
+Very Low,Low,Low,15.150000000000006,Bullish,2,2
+Very Low,Low,Medium,10.099999999999987,Bullish,8,8
+Very Low,Low,Very High,16.474999999999994,Bearish,10,10
+Very Low,Low,Very Low,6.899999999999977,Bullish,1,1
+Very Low,Medium,High,6.125,Doji,2,2
+Very Low,Medium,Very High,13.944999999999993,Bullish,10,10
+Very Low,Very High,Very High,10.23888888888888,Bearish,9,9
+Very Low,Very Low,High,15.025000000000006,Bullish,2,2
+Very Low,Very Low,Low,11.120588235294118,Bearish,17,17
+Very Low,Very Low,Medium,12.747499999999999,Bearish,20,20
+Very Low,Very Low,Very High,11.212499999999999,Bearish,8,8
+Very Low,Very Low,Very Low,13.76730769230769,Bullish,26,26
