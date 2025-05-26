@@ -1,7 +1,7 @@
 DeiiveryToTrade_CAT,VolumeToTrade_CAT,TradeDel2VolDiff_CAT,next_day_fluctuates,next_day_CandleType,percentage_fluctuation,TotalCount
-High,High,Low,55.4785714285714,Bearish,14,14
+High,High,Low,59.27142857142854,Bullish,14,14
 High,High,Medium,73.15000000000009,Bullish,1,1
-High,High,Very Low,73.22499999999998,Bearish,18,18
+High,High,Very Low,70.27499999999999,Bearish,18,18
 High,Low,Medium,23.716666666666697,Bearish,3,3
 High,Medium,Low,82.94285714285716,Bullish,7,7
 High,Medium,Medium,60.0,Bullish,1,1
@@ -11,8 +11,8 @@ High,Very High,Medium,79.08333333333341,Bullish,3,3
 High,Very High,Very High,82.43055555555549,Bullish,18,18
 High,Very High,Very Low,58.0,Bearish,1,1
 High,Very Low,Medium,30.924999999999955,Bearish,2,2
-Low,High,High,49.75,Bullish,1,1
-Low,High,Very High,63.13333333333352,Bearish,3,3
+Low,High,High,54.825000000000045,Bullish,2,2
+Low,High,Very High,64.75000000000023,Bearish,2,2
 Low,Low,Low,55.56500000000004,Bullish,10,10
 Low,Low,Very Low,33.825,Bearish,18,18
 Low,Medium,High,88.70000000000005,Bearish,1,1
@@ -24,10 +24,10 @@ Low,Very Low,Medium,30.790000000000017,Bearish,15,15
 Low,Very Low,Very Low,27.59999999999991,Bearish,1,1
 Medium,High,High,109.2321428571429,Bearish,14,14
 Medium,High,Medium,53.30000000000001,Bearish,4,4
-Medium,Low,Low,32.325000000000045,Bearish,4,4
+Medium,Low,Low,45.25,Bullish,5,5
 Medium,Low,Medium,30.6875,Bearish,4,4
 Medium,Low,Very Low,38.56666666666674,Bullish,6,6
-Medium,Medium,Low,79.75,Bearish,2,2
+Medium,Medium,Low,62.55000000000018,Bearish,1,1
 Medium,Medium,Medium,29.274999999999977,Bearish,2,2
 Medium,Medium,Very Low,64.40370370370366,Bullish,27,27
 Medium,Very High,High,57.30000000000018,Bullish,1,1
@@ -54,7 +54,7 @@ Very Low,Medium,Medium,44.874999999999886,Bullish,2,2
 Very Low,Medium,Very High,34.80000000000018,Bullish,1,1
 Very Low,Very High,Very High,80.92500000000001,Bearish,4,4
 Very Low,Very Low,High,59.75714285714288,Bullish,7,7
-Very Low,Very Low,Low,29.45833333333334,Bearish,18,18
-Very Low,Very Low,Medium,31.147727272727252,Bearish,22,22
+Very Low,Very Low,Low,30.0029411764706,Bearish,17,17
+Very Low,Very Low,Medium,30.67173913043476,Bearish,23,23
 Very Low,Very Low,Very High,66.5999999999998,Bullish,2,2
 Very Low,Very Low,Very Low,55.59444444444446,Bullish,9,9
